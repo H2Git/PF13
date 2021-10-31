@@ -4,9 +4,5 @@
 ![Slide25](https://user-images.githubusercontent.com/92925909/139573927-56345f9c-caf2-4e0b-bd90-8791c8de0f66.png)
 ![Slide26](https://user-images.githubusercontent.com/92925909/139573929-1f3aa74b-5999-4d7e-9d81-d0616bc548de.png)
 ![Slide27](https://user-images.githubusercontent.com/92925909/139573931-6e5fd94f-15f2-4888-9495-7a7863ff9040.png)
-![Slide28](https://user-images.githubusercontent.com/92925909/139573933-224b54ac-dc66-4fa0-8310-47e36c76aa9b.png)
-![Slide29](https://user-images.githubusercontent.com/92925909/139573934-1124b9c1-5d00-4c20-9ff5-97dcbd3f6745.png)
-![Slide30](https://user-images.githubusercontent.com/92925909/139573935-cd0bf885-93c7-4136-ba55-07e2b132719a.png)
-![Slide31](https://user-images.githubusercontent.com/92925909/139573936-834ff961-0b5a-48b2-9f68-1203d8ee3372.png)
 
 [![C# WinForms을 활용한 봄버맨 온라인 게임과 채팅 구현](https://img.youtube.com/vi/Ef4cXaTfCQs/0.jpg)](https://youtu.be/Ef4cXaTfCQs)
