@@ -1,0 +1,15 @@
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\System.Resources.Extensions.dll
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\System.Memory.dll
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\bin\Debug\System.Buffers.dll
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\CarRacing.Form1.resources
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\CarRacing.Resource1.resources
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\BM_Local.csproj.GenerateResource.cache
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\BM_Local.csproj.CoreCompileInputs.cache
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\iot2122\Downloads\CarRacing4\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
